@@ -5,5 +5,8 @@ The source code is available alongside the executable .jar file.
 
 Note that for large arrays (>100000), selection and insertion sort will cause the program to appear frozen as sorting through lists of that size with those sorting algorithms becomes very time consuming.
 
-# How to Run
-Download the .jar file and run it! Requires Java, the latest version of which can be downloaded https://java.com/en/download/ <- here.
+# Installation
+Download the .jar file and run it! Requires Java, the latest version of which can be downloaded here: https://java.com/en/download/.
+
+# Tech Stack Used
+Java, Eclipse IDE
